@@ -10,4 +10,4 @@ Simple linux only script to organize files into directories based on their type.
 ## Configuration
 All configuration is done using `organizer.config` file located by default (if the XDG_CONFIG_HOME variable isn't set) in the `~/.config/downloads-organizer/` directory.
 
-Currently supported configuration variables are `ARCHIVES_NAME`, `DOCUMENTS_NAME`, `IMAGES_NAME`, `AUDIO_NAME`, `SCRIPTS_NAME`, `VIDEO_NAME`, `OTHER_NAME`. All of them are used to set names of the directories that are created for files to be sorted to.
+Currently supported configuration variables are `ARCHIVES_NAME`, `DOCUMENTS_NAME`, `IMAGES_NAME`, `AUDIO_NAME`, `SCRIPTS_NAME`, `VIDEO_NAME`, `OTHER_NAME`. All of them are used to set names of directories that are created for files to be sorted to.
